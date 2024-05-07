@@ -1,0 +1,10 @@
+C:\Users\murat.ucar\source\repos\HeapUygulama\HeapUygulama\bin\Debug\HeapUygulama.exe.config
+C:\Users\murat.ucar\source\repos\HeapUygulama\HeapUygulama\bin\Debug\HeapUygulama.exe
+C:\Users\murat.ucar\source\repos\HeapUygulama\HeapUygulama\bin\Debug\HeapUygulama.pdb
+C:\Users\murat.ucar\source\repos\HeapUygulama\HeapUygulama\obj\Debug\HeapUygulama.csproj.AssemblyReference.cache
+C:\Users\murat.ucar\source\repos\HeapUygulama\HeapUygulama\obj\Debug\HeapUygulama.Form1.resources
+C:\Users\murat.ucar\source\repos\HeapUygulama\HeapUygulama\obj\Debug\HeapUygulama.Properties.Resources.resources
+C:\Users\murat.ucar\source\repos\HeapUygulama\HeapUygulama\obj\Debug\HeapUygulama.csproj.GenerateResource.cache
+C:\Users\murat.ucar\source\repos\HeapUygulama\HeapUygulama\obj\Debug\HeapUygulama.csproj.CoreCompileInputs.cache
+C:\Users\murat.ucar\source\repos\HeapUygulama\HeapUygulama\obj\Debug\HeapUygulama.exe
+C:\Users\murat.ucar\source\repos\HeapUygulama\HeapUygulama\obj\Debug\HeapUygulama.pdb
